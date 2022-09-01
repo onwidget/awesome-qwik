@@ -21,6 +21,18 @@ Inspired by the _awesome-*_ trend on GitHub.
 
 - [Official Documentation](https://qwik.builder.io/docs/) - Framework reimagined for the edge!.
 - [Official Repository](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS.
+- [Qwik Tutorials](https://qwik.builder.io/tutorial/welcome/overview/) - Interactive tutorial about Qwik.
+
+
+## Frameworks
+
+- [Qwik City](https://qwik.builder.io/qwikcity/overview/) - Qwik City is a companion meta-framework to Qwik. Use Qwik City to create websites and webapps.
+
+
+## Video & presentations
+
+- [Jun 15, 2022](https://www.youtube.com/watch?v=0dC11DMR3fU&t=154s) - WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread
+
 
 ## Community
 

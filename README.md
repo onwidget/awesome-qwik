@@ -13,7 +13,6 @@ Inspired by the _awesome-*_ trend on GitHub.
 - [Frameworks](#frameworks)
 - [Videos](#videos)
 - [Community](#community)
-- [Contributing](#contributing)
 
 ## About
 

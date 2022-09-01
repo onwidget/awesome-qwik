@@ -29,9 +29,9 @@ Inspired by the _awesome-*_ trend on GitHub.
 - [Qwik City](https://qwik.builder.io/qwikcity/overview/) - Qwik City is a companion meta-framework to Qwik. Use Qwik City to create websites and webapps.
 
 
-## Video & presentations
+## Presentations
 
-- [Jun 15, 2022](https://www.youtube.com/watch?v=0dC11DMR3fU&t=154s) - WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread
+- [Video Jun 15, 2022](https://www.youtube.com/watch?v=0dC11DMR3fU&t=154s) - WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread
 
 
 ## Community

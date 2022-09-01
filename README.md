@@ -14,7 +14,6 @@ Inspired by the _awesome-*_ trend on GitHub.
 - [Videos](#videos)
 - [Community](#community)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -45,8 +44,4 @@ Inspired by the _awesome-*_ trend on GitHub.
 
 
 ## Contributing
-Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
-
-
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](CONTRIBUTING.md). Thank you!.

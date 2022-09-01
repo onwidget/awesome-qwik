@@ -14,13 +14,13 @@ Inspired by the _awesome-*_ trend on GitHub.
 
 ## About
 
-**Qwik** is a new kind of web framework that can deliver instantly load web applications at any size or complexity. Your sites and apps can boot with about *1kb* of JS (regardless of application complexity), and achieve consistent performance at scale.
+**Qwik** is a new kind of web framework that can deliver instantly load web applications at any size or complexity. Your sites and apps can boot with about 1kb of JS (regardless of application complexity), and achieve consistent performance at scale.
 
 
 ## Getting Started
 
-- [Official Documentation](https://qwik.builder.io/docs/) - Framework reimagined for the edge!
-- [Official Repository](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
+- [Official Documentation](https://qwik.builder.io/docs/) - Framework reimagined for the edge!.
+- [Official Repository](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS.
 
 ## Community
 

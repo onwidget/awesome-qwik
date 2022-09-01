@@ -11,8 +11,10 @@ Inspired by the _awesome-*_ trend on GitHub.
 - [About](#about)
 - [Getting Started](#getting-started)
 - [Frameworks](#frameworks)
-- [Presentations](#presentations)
+- [Videos](#videos)
 - [Community](#community)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## About
 
@@ -31,7 +33,7 @@ Inspired by the _awesome-*_ trend on GitHub.
 - [Qwik City](https://qwik.builder.io/qwikcity/overview/) - Qwik City is a companion meta-framework to Qwik. Use Qwik City to create websites and webapps.
 
 
-## Presentations
+## Videos
 
 - [Video Jun 15, 2022](https://www.youtube.com/watch?v=0dC11DMR3fU&t=154s) - WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread.
 
@@ -41,3 +43,10 @@ Inspired by the _awesome-*_ trend on GitHub.
 - [Discord](https://qwik.builder.io/chat) - Discord community enabling developers to chat about Qwik.
 - [@QwikDev](https://twitter.com/QwikDev) - Profile on Twitter.
 
+
+## Contributing
+Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
+
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)

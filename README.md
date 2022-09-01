@@ -10,6 +10,8 @@ Inspired by the _awesome-*_ trend on GitHub.
 
 - [About](#about)
 - [Getting Started](#getting-started)
+- [Frameworks](#frameworks)
+- [Presentations](#presentations)
 - [Community](#community)
 
 ## About
@@ -31,7 +33,7 @@ Inspired by the _awesome-*_ trend on GitHub.
 
 ## Presentations
 
-- [Video Jun 15, 2022](https://www.youtube.com/watch?v=0dC11DMR3fU&t=154s) - WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread
+- [Video Jun 15, 2022](https://www.youtube.com/watch?v=0dC11DMR3fU&t=154s) - WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread.
 
 
 ## Community

@@ -12,6 +12,7 @@ Inspired by the _awesome-*_ trend on GitHub.
 - [Getting Started](#getting-started)
 - [Frameworks](#frameworks)
 - [Videos](#videos)
+- [Starters](#starters)
 - [Community](#community)
 
 ## About
@@ -40,7 +41,7 @@ Inspired by the _awesome-*_ trend on GitHub.
 - [starter](https://stackblitz.com/edit/qwik-starter) - A basic Qwik hello world.
 - [starter-builder](https://stackblitz.com/edit/qwik-todo-builder) - A basic Qwik hello world integrated with Builder's [Qwik API](https://www.builder.io/c/docs/qwik-api).
 - [starter-partytown](https://stackblitz.com/edit/qwik-starter-partytown) - A basic Qwik hello world showing how expensive tasks can be run on web-worker with Partytown.
-- [todo](https://stackblitz.com/edit/qwik-todo-demo): A classic TodoMVC application with Qwik.
+- [todo](https://stackblitz.com/edit/qwik-todo-demo) - A classic TodoMVC application with Qwik.
 
 ## Community
 

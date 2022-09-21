@@ -35,6 +35,12 @@ Inspired by the _awesome-*_ trend on GitHub.
 
 - [Video Jun 15, 2022](https://www.youtube.com/watch?v=0dC11DMR3fU&t=154s) - WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread.
 
+## Starters
+
+- [starter](https://stackblitz.com/edit/qwik-starter) - A basic Qwik hello world.
+- [starter-builder](https://stackblitz.com/edit/qwik-todo-builder) - A basic Qwik hello world integrated with Builder's [Qwik API](https://www.builder.io/c/docs/qwik-api).
+- [starter-partytown](https://stackblitz.com/edit/qwik-starter-partytown) - A basic Qwik hello world showing how expensive tasks can be run on web-worker with Partytown.
+- [todo](https://stackblitz.com/edit/qwik-todo-demo): A classic TodoMVC application with Qwik.
 
 ## Community
 

@@ -35,6 +35,7 @@ Inspired by the _awesome-*_ trend on GitHub.
 ## Videos
 
 - [Video Jun 15, 2022](https://www.youtube.com/watch?v=0dC11DMR3fU&t=154s) - WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread.
+- [Video Sep 20, 2022. Fireship](https://www.youtube.com/watch?v=x2eF3YLiNhY) - Qwik, the world's first O(1) JavaScript framework?.
 
 ## Starters
 

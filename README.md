@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/onwidget/awesome-qwik/main/qwik-logo.svg" alt="Awesome Qwik" width="300">
+
 # Awesome Qwik &middot; [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Lint](https://github.com/onwidget/awesome-qwik/actions/workflows/lint.yaml/badge.svg)](https://github.com/onwidget/awesome-qwik/actions/workflows/lint.yaml) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 A curated list of **[Qwik](https://qwik.builder.io/)** repos, examples, starters, tutorials, components, modules, videos, and anything else useful.

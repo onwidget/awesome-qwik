@@ -11,23 +11,27 @@ Inspired by the _awesome-*_ trend on GitHub.
 ## Contents
 
 - [About](#about)
-- [Getting Started](#getting-started)
+- [Official](#official)
 - [Frameworks](#frameworks)
 - [Libraries](#libraries)
 - [Starters](#starters)
 - [Videos](#videos)
-- [Community](#community)
 
 ## About
 
 **Qwik** is a new kind of web framework that can deliver instantly load web applications at any size or complexity. Your sites and apps can boot with about _1kb_ of JS (regardless of application complexity), and achieve consistent performance at scale.
 
 
-## Getting Started
+## Official
 
-- [Official Documentation](https://qwik.builder.io/docs/) - Framework reimagined for the edge!.
-- [Official Repository](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS.
-- [Qwik Tutorials](https://qwik.builder.io/tutorial/welcome/overview/) - Interactive tutorial about Qwik.
+- [Documentation](https://qwik.builder.io/docs/) - Framework reimagined for the edge!.
+- [Repository](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS.
+- [Tutorials](https://qwik.builder.io/tutorial/welcome/overview/) - Interactive tutorial about Qwik.
+- [Examples](https://qwik.builder.io/examples/) - Qwik official examples.
+- [Playground](https://qwik.builder.io/playground/) - Qwik playground.
+- [Showcase](https://qwik.builder.io/showcase/) - Lots of websites made using Qwik.
+- [Discord](https://qwik.builder.io/chat) - Discord community enabling developers to chat about Qwik.
+- [@QwikDev](https://twitter.com/QwikDev) - Profile on Twitter.
 
 ## Frameworks
 
@@ -51,12 +55,6 @@ Inspired by the _awesome-*_ trend on GitHub.
 
 - [Video Jun 15, 2022](https://www.youtube.com/watch?v=0dC11DMR3fU&t=154s) - WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread.
 - [Video Sep 20, 2022. Fireship](https://www.youtube.com/watch?v=x2eF3YLiNhY) - Qwik, the world's first O(1) JavaScript framework?.
-
-## Community
-
-- [Discord](https://qwik.builder.io/chat) - Discord community enabling developers to chat about Qwik.
-- [@QwikDev](https://twitter.com/QwikDev) - Profile on Twitter.
-
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](CONTRIBUTING.md). Thank you!.

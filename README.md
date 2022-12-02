@@ -11,13 +11,14 @@ Inspired by the _awesome-*_ trend on GitHub.
 - [About](#about)
 - [Getting Started](#getting-started)
 - [Frameworks](#frameworks)
-- [Videos](#videos)
+- [Libraries](#libraries)
 - [Starters](#starters)
+- [Videos](#videos)
 - [Community](#community)
 
 ## About
 
-**Qwik** is a new kind of web framework that can deliver instantly load web applications at any size or complexity. Your sites and apps can boot with about 1kb of JS (regardless of application complexity), and achieve consistent performance at scale.
+**Qwik** is a new kind of web framework that can deliver instantly load web applications at any size or complexity. Your sites and apps can boot with about _1kb_ of JS (regardless of application complexity), and achieve consistent performance at scale.
 
 
 ## Getting Started
@@ -26,16 +27,14 @@ Inspired by the _awesome-*_ trend on GitHub.
 - [Official Repository](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS.
 - [Qwik Tutorials](https://qwik.builder.io/tutorial/welcome/overview/) - Interactive tutorial about Qwik.
 
-
 ## Frameworks
 
 - [Qwik City](https://qwik.builder.io/qwikcity/overview/) - Qwik City is a companion meta-framework to Qwik. Use Qwik City to create websites and webapps.
 
+## Libraries
 
-## Videos
-
-- [Video Jun 15, 2022](https://www.youtube.com/watch?v=0dC11DMR3fU&t=154s) - WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread.
-- [Video Sep 20, 2022. Fireship](https://www.youtube.com/watch?v=x2eF3YLiNhY) - Qwik, the world's first O(1) JavaScript framework?.
+- [Qwik GraphQL](https://github.com/TahaSh/qwikql) - A GraphQL client for Qwik framework.
+- [Qwik i18n](https://github.com/mhevery/qwik-i18n.git) - Qwik Official Translation Library to do localization.
 
 ## Starters
 
@@ -43,6 +42,13 @@ Inspired by the _awesome-*_ trend on GitHub.
 - [starter-builder](https://stackblitz.com/edit/qwik-todo-builder) - A basic Qwik hello world integrated with Builder's [Qwik API](https://www.builder.io/c/docs/qwik-api).
 - [starter-partytown](https://stackblitz.com/edit/qwik-starter-partytown) - A basic Qwik hello world showing how expensive tasks can be run on web-worker with Partytown.
 - [todo](https://stackblitz.com/edit/qwik-todo-demo) - A classic TodoMVC application with Qwik.
+- [qwind](https://github.com/onwidget/qwind) - A template to make your website using Qwik + Tailwind CSS.
+- [storefront-qwik-starter](https://github.com/vendure-ecommerce/storefront-qwik-starter]) - An e-commerce storefront starter built with Qwik and Vendure.
+
+## Videos
+
+- [Video Jun 15, 2022](https://www.youtube.com/watch?v=0dC11DMR3fU&t=154s) - WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread.
+- [Video Sep 20, 2022. Fireship](https://www.youtube.com/watch?v=x2eF3YLiNhY) - Qwik, the world's first O(1) JavaScript framework?.
 
 ## Community
 

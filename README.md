@@ -41,7 +41,7 @@ Inspired by the _awesome-*_ trend on GitHub.
 
 - [Qwik GraphQL](https://github.com/TahaSh/qwikql) - A GraphQL client for Qwik framework.
 - [Qwik i18n](https://github.com/mhevery/qwik-i18n.git) - Qwik Official Translation Library to do localization.
-- [Lucide for Qwik](https://github.com/egmaleta/lucide-qwik) - Lucide icon library package (Feather icons fork) for Qwik applications
+- [Lucide for Qwik](https://github.com/egmaleta/lucide-qwik) - Lucide icon library package (Feather icons fork) for Qwik applications.
 
 ## Starters
 

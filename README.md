@@ -28,6 +28,7 @@ Inspired by the _awesome-*_ trend on GitHub.
 - [Repository](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS.
 - [Tutorials](https://qwik.builder.io/tutorial/welcome/overview/) - Interactive tutorial about Qwik.
 - [Examples](https://qwik.builder.io/examples/) - Qwik official examples.
+- [Starters](https://github.com/BuilderIO/qwik/tree/main/starters) - Official starters code.
 - [Playground](https://qwik.builder.io/playground/) - Qwik playground.
 - [Showcase](https://qwik.builder.io/showcase/) - Lots of websites made using Qwik.
 - [Discord](https://qwik.builder.io/chat) - Discord community enabling developers to chat about Qwik.

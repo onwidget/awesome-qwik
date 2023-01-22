@@ -53,6 +53,7 @@ Inspired by the _awesome-*_ trend on GitHub.
 - [todo](https://stackblitz.com/edit/qwik-todo-demo) - A classic TodoMVC application with Qwik.
 - [qwind](https://github.com/onwidget/qwind) - A template to make your website using Qwik + Tailwind CSS.
 - [storefront-qwik-starter](https://github.com/vendure-ecommerce/storefront-qwik-starter]) - An e-commerce storefront starter built with Qwik and Vendure.
+- [sslink](https://github.com/Leizhenpeng/link-shorter) - 缩短网址，让分享更简单 Shorten Link, Make Sharing Simpler
 
 ## Videos
 

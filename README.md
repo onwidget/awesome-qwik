@@ -52,7 +52,7 @@ Inspired by the _awesome-*_ trend on GitHub.
 - [starter-partytown](https://stackblitz.com/edit/qwik-starter-partytown) - A basic Qwik hello world showing how expensive tasks can be run on web-worker with Partytown.
 - [todo](https://stackblitz.com/edit/qwik-todo-demo) - A classic TodoMVC application with Qwik.
 - [qwind](https://github.com/onwidget/qwind) - A template to make your website using Qwik + Tailwind CSS.
-- [storefront-qwik-starter](https://github.com/vendure-ecommerce/storefront-qwik-starter]) - An e-commerce storefront starter built with Qwik and Vendure.
+- [storefront-qwik-starter](https://github.com/vendure-ecommerce/storefront-qwik-starter) - An e-commerce storefront starter built with Qwik and Vendure.
 
 ## Videos
 

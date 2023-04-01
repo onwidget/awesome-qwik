@@ -45,6 +45,8 @@ Inspired by the _awesome-*_ trend on GitHub.
 - [Qwik Urql](https://github.com/DustinJSilk/qwik-urql) - A small library to use Urql with Qwik.
 - [Lucide for Qwik](https://github.com/egmaleta/lucide-qwik) - Lucide icon library package (Feather icons fork) for Qwik applications.
 - [Qwik Transition](https://github.com/voluntadpear/qwik-transition) - Light-weight custom Qwik hook for adding smooth CSS transitions to your Qwik components.
+- [Qwik Icons](https://github.com/qwikest/icons) - Include popular icons easily in your Qwik projects with @qwikest/icons.
+- [Qwik UI](https://github.com/qwikifiers/qwik-ui) - Components library for Qwik.
 
 ## Starters
 

@@ -47,6 +47,7 @@ Inspired by the _awesome-*_ trend on GitHub.
 - [Qwik Transition](https://github.com/voluntadpear/qwik-transition) - Light-weight custom Qwik hook for adding smooth CSS transitions to your Qwik components.
 - [Qwik Icons](https://github.com/qwikest/icons) - Include popular icons easily in your Qwik projects with @qwikest/icons.
 - [Qwik UI](https://github.com/qwikifiers/qwik-ui) - Components library for Qwik.
+- [Qwik Router](https://github.com/dannyfranca/qwik-router) - Qwik Dynamic SPA-like router for Qwik, inspired by `vue-router` and `react-router`.
 
 ## Starters
 

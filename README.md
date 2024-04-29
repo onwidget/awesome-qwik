@@ -57,6 +57,8 @@ Inspired by the _awesome-*_ trend on GitHub.
 - [todo](https://stackblitz.com/edit/qwik-todo-demo) - A classic TodoMVC application with Qwik.
 - [qwind](https://github.com/onwidget/qwind) - A template to make your website using Qwik + Tailwind CSS.
 - [storefront-qwik-starter](https://github.com/vendure-ecommerce/storefront-qwik-starter) - An e-commerce storefront starter built with Qwik and Vendure.
+- [create-vite/template-qwik](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-qwik) - Vite's pure JavaScript or TypeScript starter for Qwik. Run: `npx create-vite some-dir --template qwik` or `npx create-vite some-dir --template qwik-ts`.
+- [qwik-starter-empty-app-javascript](https://github.com/milahu/qwik-starter-empty-app-javascript) - Qwik starter based on the create-qwik "empty app" starter.
 
 ## Videos
 
